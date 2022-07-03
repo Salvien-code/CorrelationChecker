@@ -7,7 +7,7 @@ const theme = createTheme({
 			main: blue.A700
 		},
 		secondary: {
-			main: grey.700
+			main: grey.A700
 		}
 	}
 });
